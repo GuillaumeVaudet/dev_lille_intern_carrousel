@@ -213,4 +213,33 @@ export const PROFILES = [
     github: "https://github.com/Robin73389",
   },
 },
+  {
+    name: "Ilan D.",           // ton prénom + initiale du nom
+    accent: "#ff4500",           // couleur de ton profil (voir palette ci-dessous)
+    search: "Alternance",        // type de contrat recherché : "Alternance", "Stage", "CDI"
+    role: "Dev Fullstack",       // ton intitulé de poste
+    rhythm: "4j / 1j",   // rythme d'alternance (ou "" si pas concerné)
+    available: "Aout / Septembre / Novembre 2026",     // date de disponibilité
+    avatar: "/avatars/ilan_deversenne.png",  // chemin vers ta photo (étape 2)
+    stack: [
+      { name: "C", icon: "devicon-c-plain" },
+      { name: "React",   icon: "devicon-react-original" },
+      { name: "Python",  icon: "devicon-python-plain" },
+      { name: "Docker",  icon: "devicon-docker-plain" },
+      { name: "NodeJS", icon: "devicon-nodejs-plain" },
+      { name: "HTML5", icon: "devicon-html5-plain" },
+      { name: "CSS3", icon: "devicon-css3-plain" },
+      { name: "Tailwind", icon: "devicon-tailwindcss-original" },
+      { name: "Figma", icon: "devicon-figma-plain" },
+      { name: "Git", icon: "devicon-git-plain" },
+      { name: "Linux", icon: "devicon-linux-plain" },
+      { name: "Bash", icon: "devicon-bash-plain" },
+      { name: "MySQL", icon: "devicon-mysql-plain" }
+    ],
+    quote: "Je construis des trucs qui marchent. Parlons-en.",
+    links: {
+      linkedin: "https://www.linkedin.com/in/ilan-deversenne",
+      github: "https://github.com/ilan-deversenne",
+    },
+  },
 ]
