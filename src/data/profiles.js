@@ -92,8 +92,13 @@ export const PROFILES = [
     available: "décembre 2026",     // date de disponibilité
     avatar: "/avatars/rawan_safouan.jpg",  // chemin vers ta photo (étape 2)
     stack: [
+      { name: "Linux", icon: "devicon-linux-plain" },
       { name: "Python", icon: "devicon-python-plain" },
       { name: "C", icon: "devicon-c-plain" },
+      { name: "Git", icon: "devicon-git-plain" },
+      { name: "MySQL", icon: "devicon-mysql-plain" },
+      { name: "Bash", icon: "devicon-bash-plain" },
+
     ],
     quote: "Je réponds dès que ce bug cesse d'être plus intelligent que moi.",
     links: {
