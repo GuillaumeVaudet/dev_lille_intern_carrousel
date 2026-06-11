@@ -213,4 +213,27 @@ export const PROFILES = [
     github: "https://github.com/Robin73389",
   },
 },
+{
+    name: "Ouarda B.",
+    accent: "#f3217C",
+    search: "Alternance",
+    role: "Dev Fullstack / AI Agentic",
+    rhythm: "4 jour. / 1 jour.",
+    available: "Nov/Dec 2026",
+    avatar: "/avatars/ouarda_bouchema.png",
+    stack: [
+      { name: "C",          icon: "devicon-c-plain" },
+      { name: "Python",     icon: "devicon-python-plain" },
+      { name: "JavaScript", icon: "devicon-javascript-plain" },
+      { name: "HTML5",      icon: "devicon-html5-plain" },
+      { name: "CSS3",       icon: "devicon-css3-plain" },
+      { name: "MySQL",      icon: "devicon-mysql-plain" },
+      { name: "Git",        icon: "devicon-git-plain" },
+    ],
+    quote: "De 10 ans en soins de santé à la tech — je construis des solutions qui ont du sens.",
+    links: {
+      linkedin: "https://www.linkedin.com/in/OuardaBouchema/",
+      github: "https://github.com/OuardaHolberton",
+    },
+  },
 ]
