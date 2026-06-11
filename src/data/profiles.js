@@ -106,7 +106,7 @@ export const PROFILES = [
       github: "https://github.com/rawan-holberton",
 },
 },
-{    name: "Saniez S.",           // ton prénom + initiale du nom
+{    name: "Christophe S.",           // ton prénom + initiale du nom
     accent: "#ff6a00",           // couleur de ton profil (voir palette ci-dessous)
     search: "CDD, CDI",        // type de contrat recherché : "Alternance", "Stage", "CDI"
     role: "Dev Back-end, Android",       // ton intitulé de poste   // rythme d'alternance (ou "" si pas concerné)
@@ -270,6 +270,7 @@ export const PROFILES = [
       github: "https://github.com/S3333B",
     },
   },
+  {
   name: "Lonie M.",           // ton prénom + initiale du nom
   accent: "#ff6a00",           // couleur de ton profil (voir palette ci-dessous)
   search: "Alternance",        // type de contrat recherché : "Alternance", "Stage", "CDI"
