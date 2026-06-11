@@ -242,4 +242,56 @@ export const PROFILES = [
       github: "https://github.com/ilan-deversenne",
     },
   },
+{
+    name: "Sébastien L.",           // ton prénom + initiale du nom
+    accent: "#ff6a00",           // couleur de ton profil (voir palette ci-dessous)
+    search: "CDI,CDD",        // type de contrat recherché : "Alternance", "Stage", "CDI"
+    role: "Dev Front-End",       // ton intitulé de poste
+    rhythm: "Now",   // rythme d'alternance (ou "" si pas concerné)
+    available: "jui. 2026",     // date de disponibilité
+    avatar: "/avatars/lamblin_sebastien.jpg",  // chemin vers ta photo (étape 2)
+    stack: [
+      { name: "C", icon: "devicon-c-plain" },
+      { name: "JavaScript", icon: "devicon-javascript-plain" },
+      { name: "Python", icon: "devicon-python-plain" },
+      { name: "Java", icon: "devicon-java-plain-wordmark" },
+      { name: "MySQL", icon: "devicon-mysql-plain" },
+      { name: "HTML5", icon: "devicon-html5-plain" },
+      { name: "CSS3", icon: "devicon-css3-plain" },
+      { name: "Linux", icon: "devicon-linux-plain" },
+      { name: "Bash", icon: "devicon-bash-plain" },
+      { name: "Git", icon: "devicon-git-plain" }
+
+      // ajoute autant de technos que tu veux
+    ],
+    quote: "Je fais parler les pixels et obéir le code.",
+    links: {
+      linkedin: "https://www.linkedin.com/in/snln/",
+      github: "https://github.com/S3333B",
+    },
+  },
+  name: "Lonie M.",           // ton prénom + initiale du nom
+  accent: "#ff6a00",           // couleur de ton profil (voir palette ci-dessous)
+  search: "Alternance",        // type de contrat recherché : "Alternance", "Stage", "CDI"
+  role: "Cybersecurité , DevOps",       // ton intitulé de poste
+  rhythm: "4 j. / 1 j.",   // rythme d'alternance (ou "" si pas concerné)
+  available: "sept. 2026",     // date de disponibilité
+  avatar: "/avatars/prenom_nom.jpg",  // chemin vers ta photo (étape 2)
+  stack: [
+    { name: "C",   icon: "devicon-c-plain" },
+    { name: "Python",  icon: "devicon-python-plain" },
+    { name: "Docker",  icon: "devicon-docker-plain" },
+	{ name: "Javascript", icon: "devicon-javascript-plain" },
+	{ name: "Git", icon: "devicon-git-plain" },
+	{ name: "Linux", icon: "devicon-linux-plain" },
+	{ name: "Bash", icon: "devicon-bash-plain" },
+	{ name: "MySQL", icon: "devicon-mysql-plain" },
+    // ajoute autant de technos que tu veux
+  ],
+  quote: "Entre C, Python et MySQL, j’avance avec méthode et beaucoup de persévérance.",
+  links: {
+    linkedin: "https://www.linkedin.com/in/lonie-meite/",
+    github: "https://github.com/12333-debug",
+  },
+},
 ]
